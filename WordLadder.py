@@ -1,6 +1,6 @@
 from MyQueue import MyQueue
 from MyStack import MyStack
-
+#some new updates
 dictionary = []
 def readFromDictionary(fileName):
     global dictionary
